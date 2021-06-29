@@ -6,5 +6,3 @@ language : python
 duration : 1hr/day
 
 goal: to become a professional level python developer
-
-daily task : 1 project a day.
